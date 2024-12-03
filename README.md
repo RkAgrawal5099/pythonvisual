@@ -1,4 +1,4 @@
-Sales Funnel Visualization
+SALES FUNNEL VISUALIZATION
 Project Overview
 This project generates a Sales Funnel Visualization using Plotly. The funnel chart displays various stages of a sales funnel along with the corresponding quantities for each stage. The data used in this project is simulated to demonstrate how sales typically move through various stages in a funnel, from initial leads to final conversion.
 
@@ -78,3 +78,4 @@ If you want to extend this project:
 Integrate actual sales data by replacing the simulated data (funnel_stages and quantities) with real values from your dataset.
 Customize the chart's appearance using Plotly's extensive customization options.
 For more information on Plotly's funnel chart and customization, visit the official documentation: Plotly Funnel Charts.
+
