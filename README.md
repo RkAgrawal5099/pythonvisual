@@ -1,4 +1,10 @@
 
+KU2407U568	Rudra Parmar
+KU2407U569	Rushi Agravat
+KU2407U570	Rythem Kamlesh Agrawal
+KU2407U571	Safal Suresh Gahlot
+
+
 # SALES FUNNEL VISUALIZATION
 
 ## Project Overview
